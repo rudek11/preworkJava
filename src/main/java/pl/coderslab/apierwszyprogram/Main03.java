@@ -3,9 +3,9 @@ package pl.coderslab.apierwszyprogram;
 public class Main03 {
 
 	public static void main(String[] args) {
-		System.out.print("Dzisiaj zaczynam kurs");
-		System.out.print("JAVA");
-		System.out.print("w CodersLab");
+		System.out.println("Dzisiaj zaczynam kurs");
+		System.out.println("JAVA");
+		System.out.println("w CodersLab");
 
 	}
 

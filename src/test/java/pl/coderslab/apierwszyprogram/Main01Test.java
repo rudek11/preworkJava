@@ -7,7 +7,7 @@ import org.junit.contrib.java.lang.system.SystemOutRule;
 
 import static org.assertj.core.api.Assertions.*;
 
-public class Main01Test {
+public class    Main01Test {
 
     private static final String EXPECTED_OUTPUT = "Hello world";
 
