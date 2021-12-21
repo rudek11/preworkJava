@@ -20,12 +20,12 @@ Nazwy zmiennych utwórz wg wzoru: `typ` i numer podpunktu zadania, np.: `int1` l
 
 W pliku `Main02.java` w metodzie `main` stwórz trzy zmienne:  
 - `nr1`, typu `byte` o wartości `94`,
-- `nr2`, typu `short` o wartości `257`,
-- `result`, typu `int`, przechowującą sumę dwóch poprzednich zmiennych (użyj znaku dodawania `+`). 
-1. Wartości mają być nadawane w jednej linii, razem z deklaracją, czyli:
-```` type variableName = variableValue;````
+  - `nr2`, typu `short` o wartości `257`,
+  - `result`, typu `int`, przechowującą sumę dwóch poprzednich zmiennych (użyj znaku dodawania `+`). 
+  1. Wartości mają być nadawane w jednej linii, razem z deklaracją, czyli:
+  ```` type variableName = variableValue;````
 
-2. Wypisz wartość zmiennej `result` na konsoli.
+  2. Wypisz wartość zmiennej `result` na konsoli.
 
 ## Zadanie 3
 
